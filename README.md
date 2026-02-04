@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on LLM's, AI Agents and Rust applications<br>🌱 I’m currently learning Rust<br>💬 Ask me about Life<br>⚡ Fun fact - I overthink even the smallest details
+🔭 I’m currently working on LLM's, AI Agents, C++ and Rust applications<br>🌱 I’m currently learning Rust<br>💬 Ask me about Life<br>⚡ Fun fact - I overthink even the smallest details
 
 
 ## 🌐 Socials:

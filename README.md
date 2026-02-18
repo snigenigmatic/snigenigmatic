@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=snigenigmatic&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=snigenigmatic)
+![](https://github-trophies.vercel.app/?username=snigenigmatic&no-bg=true&theme=nord)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=snigenigmatic&icon=0&color=0)](https://visitcount.itsvg.in)
